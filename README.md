@@ -1,0 +1,2 @@
+# PSQL
+learning psql tutorial
